@@ -124,4 +124,4 @@ wb.save(new_path)                                                               
 </required_pattern>
 
 ## Final Output Requirement
-Return a single executable Python script. Do not include explanatory prose outside the code block. Do not summarize the steps you took.
+Execute the script directly via the Python (Code Interpreter) tool against the attached workbook. Return the modified `.xlsx` file as a downloadable attachment in the chat. Do not paste the source code into the chat unless the user explicitly asks for it. Do not narrate the steps you took.
